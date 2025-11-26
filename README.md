@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/f4jD4fH.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/1mUmm03.png"  />
 
 ###
 
