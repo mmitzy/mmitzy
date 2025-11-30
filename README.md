@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-dun-omega.vercel.app/api?username=mmitzy&show_icons=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats-dun-omega.vercel.app/api/top-langs?username=mmitzy&layout=compact&theme=dracula&cache_seconds=0" height="150" />
+  <img src="https://github-readme-stats-dun-omega.vercel.app/api?username=mmitzy&show_icons=true&count_private=true&theme=dracula&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats-dun-omega.vercel.app/api/top-langs?username=mmitzy&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
 </div>
 
 
