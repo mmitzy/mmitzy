@@ -17,6 +17,14 @@
   <img src="https://github-readme-stats-dun-omega.vercel.app/api/top-langs?username=mmitzy&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mmitzy&theme=dracula&cache_seconds=86400" alt="GitHub Streak Stats" />
+</div>
+
+
+###
 
 ###
 
